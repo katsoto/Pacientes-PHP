@@ -1,0 +1,11 @@
+body {font-family: Arial, Helvetica, sans-serif; background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); }
+/* Barra principal */
+th { font-size: 15px; font-weight: cursiva; padding: 15px; background: #b9c9fe; border-top: 4px solid #aabcfe;
+
+    border-bottom: 1px solid #fff; color: black; }
+
+    td { padding: 8px; background: #e8edff; border-bottom: 1px solid #fff; color: black; border-top: 1px solid transparent; }
+
+ 
+tr:hover td { background: #d0dafd; color: #339; }
